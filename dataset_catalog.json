@@ -1,0 +1,54 @@
+{
+    "food101": {
+        "path": "/public/qlp/datasets/food-101_new_complete1",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "sun397": {
+        "path": "/public/qlp/datasets/sun397_new",
+        "type": "filelist",
+        "train": "train",
+        "test": "test"
+    },
+    "dtd": {
+        "path": "/public/qlp/datasets/dtd_new_complete",
+        "type": "imagefolder",
+        "train": "trainval",
+        "test": "test"
+    },
+    "pets": {
+        "path": "/public/qlp/datasets/oxford_pets_new",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "caltech101": {
+        "path": "/public/qlp/datasets/caltech101_new_complete1",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "gtsrb": {
+        "path": "/public/qlp/datasets/gtsrb_new",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "test"
+    },
+    "ucf101_frames": {
+        "path": "/public/qlp/datasets/UCF101_new",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "imagenet": {
+        "path": "/public/qlp/datasets/imagenet_new",
+        "type": "imagefolder",
+        "train": "train",
+        "test": "val"
+    },
+    "stl10": {
+        "path": "/public12/qlp/datasets/stl10",
+        "type": "special"
+    }
+}
