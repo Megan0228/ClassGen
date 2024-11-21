@@ -1,6 +1,6 @@
 # Bridging Domain and Modality Gaps: A Class Enhancement Approach for Unsupervised Adaptation in Vision-Language Models
  
-This is the PyTorch code of the [ClassGen paper](). The repository supports finetuning a CLIP model on unlabeled images from a target domain.
+This is the PyTorch code of the [ClassGen paper]().
 
 
 ### Dataset Setup
